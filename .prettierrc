@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "files": ["*.tsx", "*.ts", "*.js"],
+      "options": {
+        "tabWidth": 2,
+        "printWidth": 100,
+        "jsxBracketSameLine": false,
+        "proseWrap": "always",
+        "singleQuote": true
+      }
+    }
+  ]
+}
